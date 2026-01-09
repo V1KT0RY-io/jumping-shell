@@ -1,0 +1,35 @@
+{
+   "action": {
+      "default_icon": {
+         "128": "icons/icon-128.png",
+         "16": "icons/icon-16.png",
+         "256": "icons/icon-256.png",
+         "32": "icons/icon-32.png",
+         "48": "icons/icon-48.png",
+         "512": "icons/icon-512.png",
+         "64": "icons/icon-64.png"
+      },
+      "default_popup": "load.html",
+      "default_title": "__MSG_appName__"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "default_locale": "en_US",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "https://doodlejump.net/",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon-16.png",
+      "256": "icons/icon-256.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png",
+      "512": "icons/icon-512.png",
+      "64": "icons/icon-64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAucltO78EF4nZ4SxDwi9RknuFJcB2Sq/BJVesGZjiLkkfW6J5+2RTqrqRkQe27jIXjiQ0A0UC9EMDAGDCuYr5fFR9kW83yQgM+7no0kepTLlds/rrjDRiOO0lQfu9jzEXdkUERe3YhBscQprBjwYHAz/KWbA8Iuk0Z7k4SRDF3zl7g/+uwouvwcUZllxjUu3mRO8zzlC8zBkc4OrDJca+EUmsZcwO7LAUkNpegcw8sMeIxjtXA7E0aaKtXCS6gSXflXKbS/mDKWFgNAE9pMv0lCc15X7kaC2Lo3/eE7Ptfwf+JHn/NAnMr6lFXbHUEW1/cva6n+1BqzMdSOkEHGDR8wIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.2"
+}
